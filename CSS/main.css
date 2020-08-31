@@ -1,0 +1,136 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");b
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+body {
+background-color: #eee !important;
+}
+
+.navbar {
+  width: 100%;
+  background-color: #35488a;
+  overflow: auto;
+}
+
+.nav-login a {
+  float: right;
+}
+
+.nav-home a {
+  float: left;
+}
+
+.navbar.edit-form {
+  margin-bottom: 0px !important;
+}
+.navbar a {  
+  
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 0px !important;
+  border-radius: none;
+}
+
+.navbar a:hover {
+  background-color: #747c96;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
+td .fa-edit {
+  color: #35488a;
+  font-size: medium;
+  font-weight: 600;
+}
+.claims-edit-form {
+  padding-top: 93px !important;
+width: 100%;
+background-color: #eee;
+}
+.claims-edit-form .input-group {
+  width: 75%;
+
+}
+.control-label {
+  margin-left: 4px;
+}
+
+#contact_form {
+  background: white;
+}
+
+.claims-container {
+  height: 530px !important;
+}
+
+
+
+
+nav a{
+        color: #fff;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+float: right;
+    }
+
+ .fixed-footer{
+        width: 100%;
+        position: fixed;        
+        background: #35488a;
+        padding: 20px 0;
+        color: #fff;
+    }
+    
+
+
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #585858;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: small;
+}
+
+.header {
+  color: #FFF;
+    background-color: #35488a;
+padding: 0px;
+    box-shadow: none;
+float: left;
+    color: inherit;
+    width: auto;
+    margin: 0;
+    display: block;
+    padding: 0;
+    position: relative;
+}
+
+.menu-item-left span {
+  display: block;
+}
+
+
+
+
+
+
+
+
